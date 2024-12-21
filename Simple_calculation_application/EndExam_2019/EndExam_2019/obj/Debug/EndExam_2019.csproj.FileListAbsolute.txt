@@ -1,0 +1,14 @@
+D:\MAKEUP EXAM REVISION\EndExam_2019\EndExam_2019\bin\Debug\EndExam_2019.exe.config
+D:\MAKEUP EXAM REVISION\EndExam_2019\EndExam_2019\bin\Debug\EndExam_2019.exe
+D:\MAKEUP EXAM REVISION\EndExam_2019\EndExam_2019\bin\Debug\EndExam_2019.pdb
+D:\MAKEUP EXAM REVISION\EndExam_2019\EndExam_2019\obj\Debug\EndExam_2019.csproj.AssemblyReference.cache
+D:\MAKEUP EXAM REVISION\EndExam_2019\EndExam_2019\obj\Debug\EndExam_2019.Properties.Resources.resources
+D:\MAKEUP EXAM REVISION\EndExam_2019\EndExam_2019\obj\Debug\EndExam_2019.csproj.GenerateResource.cache
+D:\MAKEUP EXAM REVISION\EndExam_2019\EndExam_2019\obj\Debug\EndExam_2019.csproj.CoreCompileInputs.cache
+D:\MAKEUP EXAM REVISION\EndExam_2019\EndExam_2019\obj\Debug\EndExam_2019.exe
+D:\MAKEUP EXAM REVISION\EndExam_2019\EndExam_2019\obj\Debug\EndExam_2019.pdb
+D:\MAKEUP EXAM REVISION\EndExam_2019\EndExam_2019\obj\Debug\EndExam_2019.Confirmation.resources
+D:\MAKEUP EXAM REVISION\EndExam_2019\EndExam_2019\obj\Debug\EndExam_2019.Login.resources
+D:\MAKEUP EXAM REVISION\EndExam_2019\EndExam_2019\obj\Debug\EndExam_2019.signUp.resources
+D:\MAKEUP EXAM REVISION\EndExam_2019\EndExam_2019\obj\Debug\EndExam_2019.SalaryCalculator.resources
+D:\MAKEUP EXAM REVISION\EndExam_2019\EndExam_2019\obj\Debug\EndExam_2019.salarySheet.resources
